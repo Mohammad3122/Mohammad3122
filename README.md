@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I'm Mohammad Hasan - I'm a Flutter developer, <br>currently, I Study Software Engineering, and I'm interested in Dart/Flutter<br>Presently, I'm developing Software & apps with Flutter
 
 
 ## 🌐 Socials:
@@ -8,21 +8,15 @@
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mohammad3122&theme=calm&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad3122&theme=calm&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad3122&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mohammad3122&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=Mohammad3122&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad3122&theme=great-gatsby&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad3122&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=MoHaMMD_HaSan1)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mohammad3122&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
